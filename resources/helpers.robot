@@ -30,6 +30,16 @@ Go To Login Form
 
     Wait Until Page Contains        Fala QA, vamos testar o login?
 
+Go To Signup Form
+    Open Nav
+
+    Click Text                      FORMS
+    Wait Until Page Contains        FORMS
+
+    Click Text                      CADASTRO
+
+    Wait Until Page Contains        Bem-vindo, crie sua conta.
+
 
 Go To Radio Buttons
     Open Nav
