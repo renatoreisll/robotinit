@@ -32,3 +32,4 @@ Choice Job
     Wait Until Element Is Visible       ${LIST_OPTIONS}
 
     Click Text                          ${target}
+
